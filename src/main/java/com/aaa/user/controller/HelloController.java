@@ -11,5 +11,7 @@ public class HelloController {
          System.out.println("pull方法测试 ");
          System.out.println("master master master ");
         System.out.println("hot-fix hot-fix");
+        System.out.println("hot-fix hot-fix");
+        System.out.println("hot-fix hot-fix");
     }
 }
