@@ -6,5 +6,6 @@ public class HelloController {
         System.out.println("hello git 2 ");
         System.out.println("hello git 3 ");
         System.out.println("hot-fix first commit ");
+        System.out.println("测试提交冲突 ");
     }
 }
